@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    transition: all ;
+}
+
+.contenedor{
+    background-color: #fb3637;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+    border-color: aliceblue;
+    
+}
+
+button{
+    border-color: none;
+    border-radius: 10px;
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesbtn{
+    transform: translate(-100%,0);
+    cursor: pointer;
+}
+
+#nobtn{
+    position: absolute;
+    cursor: pointer;
+}
