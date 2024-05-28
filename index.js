@@ -1,7 +1,7 @@
 const yesbtn = document.querySelector('#yesbtn');
 
 yesbtn.addEventListener('click', function(){
-    alert('Yo sabia que ibas a decir que si ;v, me decis que te parecio en insta o en wha xd')
+    alert('Sabia que ibas a decir que si jajaja')
 });
 
 const nobtn = document.querySelector('#nobtn');
